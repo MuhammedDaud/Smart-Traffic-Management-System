@@ -78,5 +78,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to the Intel team for their resources and support in developing this project.
 - Acknowledgment to the contributors and open-source communities whose tools and libraries were essential in creating this system.
 
-
-This README serves as a comprehensive guide to understanding, using, and contributing to the Smart Traffic Management System. Your feedback and contributions are welcome!
